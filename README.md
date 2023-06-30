@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @krishna18122001
-- 👀 I’m interested in robotics, gaming and machine learning
+- 👀 I’m interested in Artificial intelligence, machine learning and data science
 
 
